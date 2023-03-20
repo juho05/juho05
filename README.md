@@ -6,7 +6,7 @@ Some examples of what I have been working on:
 - a [custom programming language for mBot2 robots](https://github.com/juho05/embe)
 - some experiments with the [Mandelbrot set](https://github.com/juho05/fractals) and [Conway's Game of Life](https://github.com/juho05/golminator)
 - [a service which greatly simplified pocket money management in my family](https://github.com/juho05/hbank-web) 
-- [various projects](https://github.com/orgs/code-game-project/repositories) for [CodeGame](https://code-game.org), an ecosystem for programmatically controllable multiplayer games.
+- [various projects](https://github.com/orgs/code-game-project/repositories) for [CodeGame](https://code-game.org), an ecosystem for programmatically controllable multiplayer games
 
 ### 🔥 Favorite Languages
 
