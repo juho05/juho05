@@ -23,6 +23,6 @@ Some examples of what I have been working on:
 
 ### 📈 Stats
 
-![juho05's GitHub stats](http://julianh.de:9090/?username=juho05&show_icons=true&count_private=true&theme=transparent&hide_border=true)
+![juho05's GitHub stats](http://readme-stats.julianh.de:9090/?username=juho05&show_icons=true&count_private=true&theme=transparent&hide_border=true)
 
-![Top Langs](http://julianh.de:9090/top-langs/?username=juho05&show_icons=true&count_private=true&theme=transparent&hide_border=true&langs_count=3&layout=compact)
+![Top Langs](http://readme-stats.julianh.de:9090/top-langs/?username=juho05&show_icons=true&count_private=true&theme=transparent&hide_border=true&langs_count=3&layout=compact)
