@@ -20,9 +20,3 @@ Some examples of what I have been working on:
 ![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=neovim&logoColor=57A143&labelColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000000&labelColor=ffffff)
 ![KDE](https://img.shields.io/badge/-KDE-000000?style=flat&logo=kde&logoColor=ffffff&labelColor=1D99F3)
-
-### 📈 Stats
-
-![juho05's GitHub stats](http://readme-stats.julianh.de:9090/?username=juho05&show_icons=true&count_private=true&theme=transparent&hide_border=true)
-
-![Top Langs](http://readme-stats.julianh.de:9090/top-langs/?username=juho05&show_icons=true&count_private=true&theme=transparent&hide_border=true&langs_count=3&layout=compact)
