@@ -4,8 +4,9 @@ Hi, I am Julian Hofmann, a student from Germany. I enjoy working on fun projects
 
 Some examples of what I have been working on:
 - a [custom programming language for mBot2 robots](https://github.com/juho05/embe)
+- an [OpenID Connect identity provider](https://github.com/juho05/h-id)
+- a [webapp which greatly simplified pocket money management in my family](https://github.com/juho05/h-bank)
 - some experiments with the [Mandelbrot set](https://github.com/juho05/fractals) and [Conway's Game of Life](https://github.com/juho05/golminator)
-- [a webapp which greatly simplified pocket money management in my family](https://github.com/juho05/h-bank) 
 - [various projects](https://github.com/orgs/code-game-project/repositories) for [CodeGame](https://code-game.org), an ecosystem for programmatically controllable multiplayer games
 
 ### 🔥 Favorite Languages
