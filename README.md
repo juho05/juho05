@@ -6,6 +6,7 @@ Some examples of what I have been working on:
 - a [music streaming service](https://github.com/juho05/crossonic) for your own media files
 - an [OpenID Connect identity provider](https://github.com/juho05/h-id)
 - a [custom programming language for mBot2 robots](https://github.com/juho05/embe)
+- a [dynamic interpreted programming language](https://github.com/juho05/crab)
 - a [webapp which greatly simplified allowance management in my family](https://github.com/juho05/h-bank)
 - some experiments with the [Mandelbrot set](https://github.com/juho05/fractals) and [Conway's Game of Life](https://github.com/juho05/golminator)
 - [various projects](https://github.com/orgs/code-game-project/repositories) for [CodeGame](https://github.com/orgs/code-game-project), an ecosystem for programmatically controllable multiplayer games
