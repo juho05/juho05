@@ -16,7 +16,7 @@ Some examples of what I have been working on:
 ### 🔥 Favorite Languages
 
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=ffffff&labelColor=00ADD8)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp&logoColor=239120&labelColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=ffffff&labelColor=0175C2)
 
 ### 🛠️ Favorite Tools
 
