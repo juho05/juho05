@@ -7,11 +7,9 @@ Some examples of what I have been working on:
 - an [OpenID Connect identity provider](https://github.com/juho05/h-id)
 - a [custom programming language for mBot2 robots](https://github.com/juho05/embe)
 - a [dynamic interpreted programming language](https://github.com/juho05/crab)
-- a [webapp which greatly simplified allowance management in my family](https://github.com/juho05/h-bank)
+- a [webapp for digital allowance management](https://github.com/juho05/h-bank)
 - some experiments with the [Mandelbrot set](https://github.com/juho05/fractals) and [Conway's Game of Life](https://github.com/juho05/golminator)
 - [various projects](https://github.com/orgs/code-game-project/repositories) for [CodeGame](https://github.com/orgs/code-game-project), an ecosystem for programmatically controllable multiplayer games
-- different web apps in varying states of completion
-- small CLI helper tools
 
 ### 🔥 Favorite Languages
 
