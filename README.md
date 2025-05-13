@@ -11,14 +11,7 @@ Some examples of what I have been working on:
 - some experiments with the [Mandelbrot set](https://github.com/juho05/fractals) and [Conway's Game of Life](https://github.com/juho05/golminator)
 - [various projects](https://github.com/orgs/code-game-project/repositories) for [CodeGame](https://github.com/orgs/code-game-project), an ecosystem for programmatically controllable multiplayer games
 
-### 🔥 Favorite Languages
+### 🛠️ Favorite Languages
 
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=ffffff&labelColor=00ADD8)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=ffffff&labelColor=0175C2)
-
-### 🛠️ Favorite Tools
-
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000000&labelColor=ffffff)
-![KDE](https://img.shields.io/badge/-KDE-000000?style=flat&logo=kde&logoColor=ffffff&labelColor=1D99F3)
-![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=neovim&logoColor=57A143&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
