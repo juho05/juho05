@@ -4,7 +4,7 @@ Hi, I am Julian, a student from Germany. I enjoy working on fun projects in my f
 
 Some examples of what I have been working on:
 - a [music streaming service](https://github.com/juho05/crossonic) for your own media files
-- a [sheet music app](https://github.co,/juho05/sheetopia) with cross-platform sync
+- a [sheet music app](https://github.com/juho05/sheetopia) with cross-platform sync
 - an [OpenID Connect identity provider](https://github.com/juho05/h-id)
 - a [custom programming language for mBot2 robots](https://github.com/juho05/embe)
 - a [dynamic interpreted programming language](https://github.com/juho05/crab)
